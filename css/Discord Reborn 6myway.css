@@ -20,7 +20,7 @@ body:after {
 }
 
 body:before {
-    content: "Thanks for using Discord Reborn!";
+    content: "Hasta la vista, baby!";
     z-index: 1000000000000000000000000;
     color: #fff;
     background: var(--main-color);
